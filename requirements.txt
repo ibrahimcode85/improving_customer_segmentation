@@ -1,0 +1,14 @@
+# Development dependencies
+# black==24.4.2
+
+# Project dependencies
+pandas
+numpy
+openpyxl
+scikit-learn
+seaborn
+matplotlib
+
+# Enable Jupyter Notebook - if needed
+jupyter
+ipykernel
